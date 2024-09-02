@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Day 1 Project: Countdown Timer App ⏳
 
-## Getting Started
+Welcome to Day 1 of my **30 Days 30 Projects Challenge**!
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The **Countdown Timer App** is a simple and functional application that allows users to set a countdown timer based on a duration in seconds. The app features start, pause, and reset functionalities, and displays the time remaining in minutes and seconds.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Set Timer**: Input the duration in seconds to set the countdown.
+- **Start/Pause/Reset**: Control the timer with intuitive buttons.
+- **Responsive Design**: The app is fully responsive, making it accessible on various devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- **Next.js**: Built using the Next.js framework.
+- **TypeScript**: Handles the countdown logic.
+- **shadcn/ui**: Designed the UI with this component library.
+- **CSS**: Styled with basic CSS for a clean and simple user interface.
 
-To learn more about Next.js, take a look at the following resources:
+## Live Demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Check out the live demo of the Countdown Timer App on Vercel:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Live Demo](# Day 1 Project: Countdown Timer App ⏳
 
-## Deploy on Vercel
+Welcome to Day 1 of my **30 Days 30 Projects Challenge**!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project Overview
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The **Countdown Timer App** is a simple and functional application that allows users to set a countdown timer based on a duration in seconds. The app features start, pause, and reset functionalities, and displays the time remaining in minutes and seconds.
+
+## Features
+
+- **Set Timer**: Input the duration in seconds to set the countdown.
+- **Start/Pause/Reset**: Control the timer with intuitive buttons.
+- **Responsive Design**: The app is fully responsive, making it accessible on various devices.
+
+## Tech Stack
+
+- **Next.js**: Built using the Next.js framework.
+- **TypeScript**: Handles the countdown logic.
+- **shadcn/ui**: Designed the UI with this component library.
+- **CSS**: Styled with basic CSS for a clean and simple user interface.
+
+## Live Demo
+
+Check out the live demo of the Countdown Timer App on Vercel:
+
+[Live Demo](https://time-77k99s1ru-wali-zafris-projects.vercel.app/)
+
+## Screenshot
+![Countdown Timer Screenshot](https://github.com/user-attachments/assets/61b46362-c517-4ad5-8ad0-42648f96ea9d))
+
+## Screenshot
+![Countdown Timer Screenshot](https://github.com/user-attachments/assets/61b46362-c517-4ad5-8ad0-42648f96ea9d)
