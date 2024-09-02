@@ -25,6 +25,3 @@
   "exclude": ["node_modules"]
 }
 
-
-git init; git add .; git commit -m "First Project"; git branch -M main; git remote add origin https://github.com/Waliii31/30-Days-30-Projects-Challenge.git
-
